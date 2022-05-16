@@ -19,9 +19,9 @@ In order to do this, you planned to build a sentiment-based product recommendati
 
 ### Solution
 
-* github link: https://github.com/PravinAmin/sbprs-capstone
+* github link: https://github.com/rakeshbabu1711/rakesh_sentiment_analsyis
 
-* Heroku (Application is Live): https://ebuss-sbprs-app.herokuapp.com/
+* Heroku (Application is Live): https://rakeshsentiment-capstone-sbprs.herokuapp.com/
 
 ### Built with
 
